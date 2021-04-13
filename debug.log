@@ -1,0 +1,17 @@
+[1231/113607.037:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0107/155444.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.722:ERROR:exception_snapshot_win.cc(99)] thread ID 11620 not found in process
+[0107/155444.722:ERROR:exception_snapshot_win.cc(99)] thread ID 11196 not found in process
+[0107/155444.722:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.722:ERROR:exception_snapshot_win.cc(99)] thread ID 3980 not found in process
+[0107/155444.737:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.737:ERROR:exception_snapshot_win.cc(99)] thread ID 10696 not found in process
+[0107/155444.753:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.753:ERROR:exception_snapshot_win.cc(99)] thread ID 9868 not found in process
+[0107/155444.768:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.768:ERROR:exception_snapshot_win.cc(99)] thread ID 11876 not found in process
+[0107/155444.768:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.768:ERROR:exception_snapshot_win.cc(99)] thread ID 11748 not found in process
+[0107/155444.784:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0107/155444.784:ERROR:exception_snapshot_win.cc(99)] thread ID 13936 not found in process

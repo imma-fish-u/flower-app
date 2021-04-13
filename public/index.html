@@ -39,5 +39,27 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-  </body>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-analytics.js"></script>
+    <script>
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      var firebaseConfig = {
+        apiKey: "AIzaSyDSjNoDl2yZcJ-TnBu73WdQPa7wJZnXl-k",
+        authDomain: "flowerwebapp-a433e.firebaseapp.com",
+        projectId: "flowerwebapp-a433e",
+        storageBucket: "flowerwebapp-a433e.appspot.com",
+        messagingSenderId: "418783394241",
+        appId: "1:418783394241:web:556f34bf5d3a19a92e1740",
+        measurementId: "G-G1CEQ6CDSQ"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      firebase.analytics();
+    </script>
+      </body>
 </html>
